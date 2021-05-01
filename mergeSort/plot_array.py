@@ -16,4 +16,5 @@ for i in range(len(output)):
 plt.plot(time, size)
 plt.xlabel("Time (ms)")
 plt.ylabel("Size of Array")
+plt.savefig('mergeSortImage.png')
 plt.show()

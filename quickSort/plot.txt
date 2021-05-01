@@ -1,0 +1,10 @@
+Time taken to sort the array of size 10000 is 3ms
+Time taken to sort the array of size 20000 is 2ms
+Time taken to sort the array of size 50000 is 5ms
+Time taken to sort the array of size 80000 is 9ms
+Time taken to sort the array of size 100000 is 11ms
+Time taken to sort the array of size 150000 is 16ms
+Time taken to sort the array of size 200000 is 23ms
+Time taken to sort the array of size 300000 is 43ms
+Time taken to sort the array of size 500000 is 90ms
+Time taken to sort the array of size 700000 is 162ms
